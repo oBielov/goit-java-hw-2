@@ -21,3 +21,4 @@ public class NameEncoderDecoder{
                 .replace("YES","");
         return name;
     }
+}
