@@ -1,5 +1,4 @@
 public class NameEncoderDecoder{
-
     public String encode(String name){
         name = name
                 .replace("e","1")
@@ -21,4 +20,6 @@ public class NameEncoderDecoder{
                 .replace("YES","");
         return name;
     }
+
 }
+
